@@ -32,6 +32,7 @@
 
 #### 🔗 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://youtube.com/@speedyfriend67" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="youtube" height="30" width="40" /></a>
+  <a href="https://flero.pages.dev" target="blank"><img align="center" src="https://flero.pages.dev/_app/immutable/assets/flero.C1k2Qq-1.png" alt="flero" height="30" width="40" /></a>
+  <a href="https://twitter.com/speedyfriend433" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
