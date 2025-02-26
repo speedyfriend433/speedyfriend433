@@ -3,13 +3,13 @@
 ---
 
 #### 🌟 About Me:
-- 🔭 I’m currently working on [Streamy! Free-For-All Live Streaming App For iOS]
-- 🌱 I’m currently learning [Swift , Python]
-- 👯 I’m looking to collaborate on [FridaCodeManager]
-- 💬 Ask me about [Swift and iOS Things!]
-- 📫 How to reach me: [speedyfriend433@gmail.com]
-- 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: [I'm Good At Geometry Dash]
+- 🔭 I’m currently working on low-level systems about iOS
+- 🌱 I’m currently learning Swift , Python , R
+- 👯 I’m looking to collaborate on FridaCodeManager
+- 💬 Ask me about Swift and iOS Things!
+- 📫 How to reach me: speedyfriend433@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Good At Geometry Dash
 
 ---
 
