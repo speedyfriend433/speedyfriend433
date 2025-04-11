@@ -37,6 +37,7 @@ I'm a passionate developer, an enthusiastic learner, and a strong believer in th
    - Key technologies used.
    - Why it's awesome!
 
+
 ## 📈 GitHub Stats
 ![speedyfriend433's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedyfriend433&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedyfriend433&layout=compact)
