@@ -13,6 +13,7 @@ I'm a passionate developer, an enthusiastic learner, and a strong believer in th
 - Building awesome projects that make a difference
 - Diving into open-source contributions
 - Mastering new programming languages and frameworks
+- https://sloger.netlify.app/ (iOS Hooking Techniques Documentation!)
 
 ## 🌱 Skills & Interests
 - **Languages**: Python, JavaScript, TypeScript, and more
