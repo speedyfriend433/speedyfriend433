@@ -13,18 +13,8 @@ Hi! I'm **speedyfriend67** — a curious iOS reverse engineer, creative Swift de
 
 - 🧰 **iOS App Development**
   - Building SwiftUI apps for iOS: from IPA signers to UniGram (campus notification app)
-  - Tools for Mach-O analysis, IPA injection, and APK analysis (Pure Swift!)
+  - Tools for Mach-O analysis, IPA injection, and APK Runner
   - Using ElleKit, zsign-ios, MachOKit, and more
-
-- 🎮 **3D Web Experiments**
-  - Minecraft-style world builder [Alony 🌍]
-  - Geometry Dash-like game w/ realistic physics
-  - Roblox-style physics playground with Three.js
-
-- 🤖 **AI Integration**
-  - Auto fuzzers and crash detectors powered by AI
-  - Projects like Instagram unfollow bots (for personal use), AI-based CVE finders
-  - AI-generated music & YouTube Shorts automation
 
 ---
 
@@ -52,8 +42,6 @@ Hi! I'm **speedyfriend67** — a curious iOS reverse engineer, creative Swift de
 ## 🚧 Work In Progress
 
 - 📁 iOS mod menu for Minecraft using Titanox (non-jailbroken)
-- 📦 AI-enhanced APK analyzer for iOS written in Pure Swift
-- 🎵 AI-generated music visualizer + YouTube channel automation tools
 
 ---
 
