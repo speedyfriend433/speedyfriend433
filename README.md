@@ -34,7 +34,7 @@ Hi! I'm **speedyfriend67** — a curious iOS reverse engineer, creative Swift de
 | **IPASigner** | SwiftUI app to sign & inject tweaks into `.ipa` files using ElleKit & zsign-ios |
 | **UniGram** | A campus notification app that scrapes university notices & alerts users |
 | **APKRunner** | iOS app for running native apk apps (In Progress) |
-| **MachOHeaderDumper** | A native iOS application to dump Objective-C headers and more |
+| **ReDyne** | A native decompiler for iOS to dump and more! |
 | **No-JIT Hooking Blog** | Writing technical blog posts on bypassing JIT restrictions on iOS |
 
 ---
