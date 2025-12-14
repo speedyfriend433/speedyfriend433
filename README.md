@@ -1,56 +1,27 @@
 # 👨‍💻 speedyfriend67
 
-Hi! I'm **speedyfriend67** — a curious iOS reverse engineer, creative Swift developer, and bug bounty hunter 🧪. I explore Apple internals, make PoCs, design custom tools, and build security-focused apps from scratch. Always learning, always shipping.
+Hey, I'm **Jian**. I like breaking iOS security mitigations and building weird tools with Swift.
+
+My main focus right now is the **Apple Security Bounty** program—hunting logic bugs, kernel issues, and writing PoCs. If I'm not in a debugger, I'm probably rewriting a tool in Rust or C if possible
+
+### Recent Security Research
+*   **CVE-2025-46280** (Assigned Dec 2025)
+    *   *Impact:* [Soon]
+    *   *Description:* [Soon]
+
+### The Tech Stack
+*   **Reversing:** IDA Pro, Ghidra, Hopper Disassembler
+*   **Dev:** Swift (SwiftUI), C
+*   **Focus:** No-JIT hooking, Mach-O parsing, Sideloading iPA
+
+### Projects
+*   **IPASigner** – Sign & inject tweaks into `.ipa` files on the fly.
+*   **ReDyne** – Attempting to build a proper native decompiler for iOS.
+*   **APKRunner** – iOS app for running native APKs (Work in Progress).
+*   **UniGram** – Simple app to scrape and push university notifications.
 
 ---
+**Contact:** DM me on Discord, Twitter (@Speedyfriend67) or email `speedyfriend433@gmail.com`.
+**Note:** *I break things to learn how to fix them. No piracy, just research.*
 
-## 🔍 What I Do
-
-- 🍎 **iOS Security Research**
-  - Bug bounties via Apple Security Bounty program
-  - Reverse engineering with IDA Pro & Ghidra
-  - Mach-O parsing, No-JIT hooking, kernel fuzzing, and PoCs
-
-- 🧰 **iOS App Development**
-  - Building SwiftUI apps for iOS: from IPA signers to UniGram (campus notification app)
-  - Tools for Mach-O analysis, IPA injection, and APK Runner
-  - Using ElleKit, zsign-ios, MachOKit, and more
-
----
-
-## 🧠 I’m Currently Exploring
-
-- Writing PoCs for iOS/macOS
-- Creating a professional Ghidra-like reverse engineering suite in **Rust, Go, and C++** (in the future)
-- Designing Swift packages (e.g. gradients, Mach-O utilities)
-- UI/UX experimentation with shaders, blur, glassmorphism, and 3D visuals
-
----
-
-## 🧪 Notable Projects
-
-| Project | Description |
-|--------|-------------|
-| **IPASigner** | SwiftUI app to sign & inject tweaks into `.ipa` files using ElleKit & zsign-ios |
-| **UniGram** | A campus notification app that scrapes university notices & alerts users |
-| **APKRunner** | iOS app for running native apk apps (In Progress) |
-| **ReDyne** | A native decompiler for iOS to dump and more! |
-| **No-JIT Hooking Blog** | Writing technical blog posts on bypassing JIT restrictions on iOS |
-
----
-
-## 🚧 Work In Progress
-
-- 📁 iOS mod menu for Minecraft using Titanox (non-jailbroken)
-
----
-
-## 🔗 Let’s Connect
-
-- 🧠 DM me on Discord, email me (speedyfriend433@gmail.com), or find me on GitHub!
-- 💬 Korean 🇰🇷 & English 🇺🇸 OK
-- 🛠 For learning, not for piracy. All tools are for **research, personal use, and ethical testing**.
-
----
-
-_“Everything can be broken. The fun part is learning how.”_
+🇰🇷 / 🇺🇸
