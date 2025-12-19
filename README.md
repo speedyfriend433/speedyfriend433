@@ -21,7 +21,7 @@ My main focus right now is the **Apple Security Bounty** program—hunting logic
 *   **UniGram** – Simple app to scrape and push university notifications.
 
 ---
-**Contact:** DM me on Discord, Twitter (@Speedyfriend67) or email `speedyfriend433@gmail.com`.
+**Contact:** DM me on Discord, Twitter (@Speedyfriend433) or email `speedyfriend433@gmail.com`.
 
 **Note:** *I break things to learn how to fix them. No piracy, just research.*
 
