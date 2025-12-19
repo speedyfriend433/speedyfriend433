@@ -22,6 +22,7 @@ My main focus right now is the **Apple Security Bounty** program—hunting logic
 
 ---
 **Contact:** DM me on Discord, Twitter (@Speedyfriend67) or email `speedyfriend433@gmail.com`.
+
 **Note:** *I break things to learn how to fix them. No piracy, just research.*
 
 🇰🇷 / 🇺🇸
