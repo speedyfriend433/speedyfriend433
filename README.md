@@ -2,7 +2,7 @@
 
 Hey, I'm **Jian**. I like breaking iOS security mitigations and building weird tools with Swift.
 
-My main focus right now is the **Apple Security Bounty** program—hunting logic bugs, kernel issues, and writing PoCs. If I'm not in a debugger, I'm probably rewriting a tool in Rust or C if possible
+My main focus right now is the **Apple Security Bounty** program—hunting logic bugs, kernel issues, and writing PoCs.
 
 ### Recent Security Research
 *   **CVE-2025-46280** (Assigned Dec 2025)
@@ -11,8 +11,8 @@ My main focus right now is the **Apple Security Bounty** program—hunting logic
 
 ### The Tech Stack
 *   **Reversing:** IDA Pro, Ghidra, Hopper Disassembler
-*   **Dev:** Swift (SwiftUI), C
-*   **Focus:** No-JIT hooking, Mach-O parsing, Sideloading iPA
+*   **Dev:** Swift (SwiftUI)
+*   **Focus:** Bugs in Apple deviecs, Mach-O parsing, Sideloading iPA
 
 ### Projects
 *   **IPASigner** – Sign & inject tweaks into `.ipa` files on the fly.
