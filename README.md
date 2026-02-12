@@ -9,6 +9,10 @@ My main focus right now is the **Apple Security Bounty** program—hunting logic
     *   *Impact:* [Soon]
     *   *Description:* [Soon]
 
+*   **CVE-2026-20654**
+    *   *Impact:* An app may be able to cause unexpected system termination
+    *   *Description:* The issue was addressed with improved memory handling.
+
 ### The Tech Stack
 *   **Reversing:** IDA Pro, Ghidra, Hopper Disassembler
 *   **Dev:** Swift (SwiftUI)
