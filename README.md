@@ -21,7 +21,7 @@ My main focus right now is the **Apple Security Bounty** program—hunting logic
 ### Projects
 *   **IPASigner** – Sign & inject tweaks into `.ipa` files on the fly.
 *   **ReDyne** – Attempting to build a proper native decompiler for iOS.
-*   **APKRunner** – iOS app for running native APKs (Work in Progress).
+*   **DexLoom** – iOS app for running native APKs (Work in Progress).
 *   **UniGram** – Simple app to scrape and push university notifications.
 
 ---
