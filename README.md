@@ -6,12 +6,16 @@ My main focus right now is the **Apple Security Bounty** program—hunting logic
 
 ### Recent Security Research
 *   **CVE-2025-46280** (Assigned Dec 2025)
-    *   *Impact:* [Soon]
-    *   *Description:* [Soon]
+    *   *Impact:* An app may be able to execute arbitrary code with kernel privileges
+    *   *Description:* An out-of-bounds read was addressed with improved bounds checking.
 
 *   **CVE-2026-20654**
     *   *Impact:* An app may be able to cause unexpected system termination
     *   *Description:* The issue was addressed with improved memory handling.
+
+*   **CVE-2026-28867**
+    *   *Impact:* An app may be able to leak sensitive kernel state
+    *   *Description:* This issue was addressed with improved authentication.
 
 ### The Tech Stack
 *   **Reversing:** IDA Pro, Ghidra, Hopper Disassembler
